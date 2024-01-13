@@ -1,0 +1,48 @@
+c:\users\юлия\documents\visual studio 2013\Projects\chasy\chasy\bin\Debug\chasy.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\chasy\chasy\obj\Debug\chasy.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\chasy\chasy\obj\Debug\chasy.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\chasy\chasy\obj\Debug\chasy.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\chasy\chasy\obj\Debug\chasy.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\chasy\chasy\bin\Debug\chasy.exe
+c:\users\юлия\documents\visual studio 2013\Projects\chasy\chasy\bin\Debug\chasy.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\chasy\chasy\obj\Debug\chasy.exe
+c:\users\юлия\documents\visual studio 2013\Projects\chasy\chasy\obj\Debug\chasy.pdb
+C:\Users\User\Desktop\chasy\chasy\bin\Debug\chasy.exe.config
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.exe
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.pdb
+C:\Users\User\Desktop\chasy\chasy\bin\Debug\chasy.exe
+C:\Users\User\Desktop\chasy\chasy\bin\Debug\chasy.pdb
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.Form1.resources
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.Properties.Resources.resources
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.timer.resources
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.sekundo.resources
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.budilnik.resources
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.AboutBox1.resources
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.будильник.resources
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\chasy\chasy\obj\Debug\chasy.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\chasy\chasy\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\chasy\chasy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\bin\Debug\chasy.exe.config
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.exe
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.pdb
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\bin\Debug\chasy.exe
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\bin\Debug\chasy.pdb
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.AboutBox1.resources
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.budilnik.resources
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.Form1.resources
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.Properties.Resources.resources
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.sekundo.resources
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.timer.resources
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.будильник.resources
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.csproj.GenerateResource.cache
+C:\Users\User\Desktop\проекты программирование\chasy\chasy\obj\Debug\chasy.csproj.CoreCompileInputs.cache
